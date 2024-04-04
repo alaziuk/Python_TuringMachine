@@ -1,0 +1,52 @@
+ala_ma_kota_a_kot_ma_ale%
+aklotmerp_%/
+s1
+a a p s2
+l l p s1
+m m p s1
+k k p s2
+o o p s1
+t t p s1
+e e p s1
+_ _ p s1
+% % p koniec
+s2
+a a p s1
+l l p s3
+m m p s1
+k k p s1
+o o p s3
+t t p s1
+e e p s1
+_ _ p s1
+% % p koniec
+s3
+a a p s1
+l l p s1
+m m p s1
+k k p s1
+o o p s1
+t t p s4
+e e p s4
+_ _ p s1
+% % p koniec
+s4
+a a p s1
+l l p s1
+m m p s1
+k k p s1
+o o p s1
+t t p s1
+e e l s1
+_ _ l s5
+% % l s5
+s5
+e a l s6
+t k l s6
+s6
+l l l s7
+o o l s7
+s7
+a e p s1
+k t p s1
+:
