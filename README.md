@@ -7,7 +7,7 @@ It is using ABC (Abstract Base Classes) and MaszynaTuringa class which inherits 
 ## 👩🏽‍🍳 Features:  <br>
 It features insturkcja.txt file where instruction for TuringMashine are. The instruction are: <br>
 First line: input string (string that we will operate on) in my example there is: ala_ma_kota_a_kot_ma_ale% <br>
-Second line: alphabet (it cannot contain state names)
+Second line: alphabet (it cannot contain state names) <br>
 The rest: states and instructions.
 
 ## 💭 Process:  <br>
